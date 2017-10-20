@@ -1,13 +1,13 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Luis Flávio da Costa Terra
+description: Luis Flávio da Costa Terra
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Luis Flávio Terra
-user_description: Graduando em Engenharia Mecânica Aeronáutica na Universidade Federal de Itajubá.
-user_title: Software Developer, Aeronautical Engineering
+user_description: 
+user_title: 
 email: costaluisflavio@gmail.com
 github_username:  lflaviocosta
 facebook page: https://www.facebook.com/luisflavio.costa
